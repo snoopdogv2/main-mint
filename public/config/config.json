@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBFA1d8C59a38156d7074DE2c9ef96FAE4425aA0C",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbfa1d8c59a38156d7074de2c9ef96fae4425aa0c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SnoopDog",
+  "SYMBOL": "SNOOP",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/snoopdog-v2",
+  "SHOW_BACKGROUND": true
+}
